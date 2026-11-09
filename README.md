@@ -1,8 +1,4 @@
-# Stellar-Frontend: Client Portal & UI Ecosystem
-
-<p align="center">
-  <img src="./docs/laptop.jpg" alt="Stellar Frontend Dashboard preview on laptop screen" width="700px">
-</p>
+# Stellar-Frontend: Client Portal & UI 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
